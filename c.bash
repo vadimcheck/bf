@@ -1,0 +1,1 @@
+./casascius_nonstop | ./brainflayer -a -c uc -v -t sha256 -b btca.blf -o found.txt
